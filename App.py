@@ -177,7 +177,7 @@ def clear_user_chats(email):
 # ----------------------------------------------------
 # 4. Backend Tunnel Endpoint
 # ----------------------------------------------------
-OLLAMA_BASE_URL = "https://joseph-dependent-hardcover-gerald.trycloudflare.com"
+OLLAMA_BASE_URL = "https://exception-inter-teaches-footage.trycloudflare.com"
 
 # ----------------------------------------------------
 # 5. Session State Control
